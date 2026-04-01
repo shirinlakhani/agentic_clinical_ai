@@ -1,0 +1,15 @@
+Task: Analyze complex lab results
+Context: Patient with slightly elevated BP and cholesterol
+Persona: Diagnostic Specialist
+Format: Bullet points
+Tone: Professional
+
+Examples:
+Input: A1C 6.5%, LDL 150
+Output: Flag as prediabetic; elevated cholesterol; recommend lifestyle intervention
+
+Input: BP 120/80, cholesterol normal
+Output: No intervention needed
+
+Now analyze: <INSERT_LAB_RESULTS>
+Output: Structured assessment

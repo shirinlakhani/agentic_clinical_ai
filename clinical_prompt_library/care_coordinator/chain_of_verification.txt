@@ -1,0 +1,13 @@
+Task: Validate patient messages for clarity and tone
+Context: High-risk patient
+Persona: Care Coordinator
+Format: Initial draft → review → final
+Tone: Supportive
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft initial message.
+2. Review for clarity, tone, and engagement potential.
+3. Revise and finalize.
+Output: Verified patient message

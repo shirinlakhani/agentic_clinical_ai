@@ -1,0 +1,13 @@
+Task: Stepwise translation of medical data
+Context: Patient education
+Persona: Health Educator
+Format: Step-by-step reasoning → simple message
+Tone: Empathetic
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Review patient data.
+2. Identify critical info to communicate.
+3. Simplify language and suggest next steps.
+Output: Patient-friendly guidance

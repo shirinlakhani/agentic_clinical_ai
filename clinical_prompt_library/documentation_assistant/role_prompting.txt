@@ -1,0 +1,13 @@
+Task: Combine dual perspectives in documentation
+Context: Patient visit
+Persona: Documentation Assistant + QA Lead
+Format: Combined notes
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft notes as Documentation Assistant.
+2. Check for accuracy as QA Lead.
+3. Merge into final note.
+Output: Dual-perspective clinical notes

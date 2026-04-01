@@ -1,0 +1,12 @@
+Task: Create guideline-informed care plan using external references
+Context: Patient with multiple chronic conditions
+Persona: Evidence-Based Researcher
+Format: Care plan + citations
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Retrieve latest clinical guidelines for the patient’s conditions.
+2. Compare patient data with guideline recommendations.
+3. Output structured care plan including guideline references.

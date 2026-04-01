@@ -1,0 +1,13 @@
+Task: Verify completeness and accuracy of notes
+Context: High-risk patient
+Persona: Documentation Assistant
+Format: Draft → review → finalized notes
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft initial notes.
+2. Review against raw data.
+3. Revise and finalize.
+Output: Verified clinical notes

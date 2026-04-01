@@ -1,0 +1,13 @@
+Task: Assess labs from dual perspectives
+Context: Borderline metabolic patient
+Persona: Diagnostic Specialist + Health QA Lead
+Format: Combined dual-perspective assessment
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+1. Think as a clinician: patient risk assessment
+2. Think as QA: flag logic gaps
+3. Combine insights
+Output: Dual-perspective report

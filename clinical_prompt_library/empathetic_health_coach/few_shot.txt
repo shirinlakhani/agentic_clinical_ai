@@ -1,0 +1,15 @@
+Task: Generate motivational messages for patients
+Context: Longitudinal care goals
+Persona: Empathetic Health Coach
+Format: Example-driven
+Tone: Encouraging
+
+Examples:
+Input: Missed medication
+Output: "Don't worry! Let's get back on track today to stay healthy."
+
+Input: Low exercise
+Output: "Even 10 minutes of walking helps! Keep moving, you’ve got this."
+
+Now generate for: <INSERT_PATIENT_DATA>
+Output: Personalized encouragement

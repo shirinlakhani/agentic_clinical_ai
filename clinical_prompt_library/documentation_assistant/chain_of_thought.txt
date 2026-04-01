@@ -1,0 +1,13 @@
+Task: Document reasoning behind clinical actions
+Context: Patient with multiple comorbidities
+Persona: Documentation Assistant
+Format: Step-by-step reasoning + notes
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Review patient data.
+2. Summarize key observations and interventions.
+3. Draft structured notes including rationale.
+Output: Documented clinical reasoning

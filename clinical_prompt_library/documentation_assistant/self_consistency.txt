@@ -1,0 +1,12 @@
+Task: Ensure consistency in documentation
+Context: Patient with multiple chronic conditions
+Persona: Documentation Assistant
+Format: Multiple drafts → consensus
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent note drafts.
+2. Check for consistency and completeness.
+3. Output final consolidated notes.

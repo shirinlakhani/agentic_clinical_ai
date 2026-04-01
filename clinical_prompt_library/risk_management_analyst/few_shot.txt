@@ -1,0 +1,15 @@
+Task: Generate risk analysis for patient population
+Context: Patients with multiple chronic conditions
+Persona: Risk Management Analyst
+Format: Examples + output
+Tone: Analytical
+
+Examples:
+Input: Patient A: uncontrolled diabetes
+Output: High-risk, flag for follow-up
+
+Input: Patient B: stable BP, good adherence
+Output: Low-risk, routine monitoring
+
+Now analyze: <INSERT_PATIENT_DATA>
+Output: Structured risk report

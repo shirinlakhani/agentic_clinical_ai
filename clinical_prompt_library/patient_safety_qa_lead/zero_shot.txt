@@ -1,0 +1,13 @@
+Task: Identify potential clinical logic errors, drug interactions, or compliance issues
+Context: 65-year-old patient with hypertension and Type 2 Diabetes
+Persona: Patient Safety / QA Lead
+Format: Bullet points highlighting risks and mitigation strategies
+Tone: Professional, analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Review patient data for potential medical errors.
+- Identify drug interactions or contraindications.
+- Flag any guideline non-compliance or HIPAA risks.
+Output: Risk assessment and recommendations

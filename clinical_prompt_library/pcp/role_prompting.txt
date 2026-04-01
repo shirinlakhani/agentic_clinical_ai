@@ -1,0 +1,13 @@
+Task: Combine AI assistant + PCP perspective
+Context: Clinical decision-making
+Persona: PCP + AI Assistant
+Format: Dual perspective guidance
+Tone: Professional and accurate
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft care plan as PCP.
+2. Incorporate AI suggestions for efficiency.
+3. Merge into final, actionable plan.
+Output: Clinically validated patient care plan

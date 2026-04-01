@@ -1,0 +1,11 @@
+Task: Double-read clinical recommendations
+Context: Reduce errors in care planning
+Persona: PCP
+Format: Step-by-step review
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Read all instructions and plan twice for accuracy.
+- Output: Final clinical plan

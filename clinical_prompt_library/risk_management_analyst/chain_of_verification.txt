@@ -1,0 +1,12 @@
+Task: Verify risk assessments
+Context: High-risk patients
+Persona: Risk Management Analyst
+Format: Draft → verification → final
+Tone: Analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft initial risk report.
+2. Cross-check using historical data.
+3. Output: Verified risk report

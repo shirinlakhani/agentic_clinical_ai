@@ -1,0 +1,12 @@
+Task: Double-read QA review
+Context: Patient with complex treatment plan
+Persona: Patient Safety / QA Lead
+Format: Step-by-step reasoning
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Read input twice to ensure no errors are missed.
+- Generate verified safety and compliance report.
+Output: Verified QA report

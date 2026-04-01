@@ -1,0 +1,12 @@
+Task: QA report using external references
+Context: Patient with chronic conditions
+Persona: Patient Safety / QA Lead
+Format: QA report + guideline references
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Retrieve latest safety guidelines and drug interactions.
+2. Compare patient recommendations with standards.
+3. Output structured QA report including references.

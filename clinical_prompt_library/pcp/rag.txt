@@ -1,0 +1,12 @@
+Task: Generate evidence-based care plans using references
+Context: Chronic disease management
+Persona: PCP
+Format: Recommendation + Supporting reference
+Tone: Professional and guideline-driven
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Retrieve relevant clinical guidelines or literature.
+2. Draft care plan based on evidence.
+3. Output: Patient-specific, reference-backed plan

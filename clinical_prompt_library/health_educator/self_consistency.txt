@@ -1,0 +1,12 @@
+Task: Ensure message consistency across drafts
+Context: Patient education
+Persona: Health Educator
+Format: Multiple drafts → consensus
+Tone: Empathetic
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent message drafts.
+2. Compare and ensure consistency.
+3. Output: Final patient-friendly message

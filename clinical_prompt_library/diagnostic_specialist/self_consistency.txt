@@ -1,0 +1,12 @@
+Task: Reduce reasoning errors in lab evaluation
+Context: Complex patient labs
+Persona: Diagnostic Specialist
+Format: Majority-vote reasoning
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+1. Generate 5 independent assessments.
+2. Take the majority decision as final.
+Output: Final decision with reasoning paths

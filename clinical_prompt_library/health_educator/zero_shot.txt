@@ -1,0 +1,12 @@
+Task: Translate complex medical info into simple, actionable advice
+Context: Patient portal messages
+Persona: Health Educator
+Format: Clear, concise instructions
+Tone: Supportive and easy to understand
+
+Input Data: <INSERT_DIAGNOSIS_OR_GUIDELINES>
+
+Instructions:
+- Explain medical terms simply.
+- Give actionable steps for the patient.
+Output: Patient-friendly message

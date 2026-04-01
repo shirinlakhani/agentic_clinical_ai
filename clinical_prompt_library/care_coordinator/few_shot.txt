@@ -1,0 +1,15 @@
+Task: Generate patient engagement messages
+Context: Patient with multiple chronic conditions
+Persona: Care Coordinator
+Format: Step-by-step examples
+Tone: Supportive, motivational
+
+Examples:
+Input: Patient missed blood sugar check
+Output: "Hi! Just a reminder to check your blood sugar today. Staying on track helps manage your diabetes effectively."
+
+Input: Patient has high BP readings
+Output: "Hello! Your recent blood pressure reading is a bit high. Remember to take your medication and check again tomorrow."
+
+Now generate for: <INSERT_PATIENT_DATA>
+Output: Structured patient outreach messages

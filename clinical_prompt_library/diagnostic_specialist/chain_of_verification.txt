@@ -1,0 +1,13 @@
+Task: Validate lab analysis
+Context: Patient with mixed indicators
+Persona: Diagnostic Specialist
+Format: Initial reasoning, verification reasoning, final conclusion
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+1. Assess risk initially.
+2. Reassess independently using another logic approach.
+3. Compare and finalize output.
+Output: Step-by-step verification + decision

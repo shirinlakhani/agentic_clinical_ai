@@ -1,0 +1,12 @@
+Task: Double-read clinical notes
+Context: Patient with complex treatment
+Persona: Documentation Assistant
+Format: Step-by-step reasoning
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Read data twice to ensure nothing is missed.
+- Generate accurate, complete clinical notes.
+Output: Verified notes

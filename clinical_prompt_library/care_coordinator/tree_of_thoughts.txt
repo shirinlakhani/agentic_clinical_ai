@@ -1,0 +1,13 @@
+Task: Generate multiple message paths for patient engagement
+Context: Patient with complex care plan
+Persona: Care Coordinator
+Format: Multiple message options + final selection
+Tone: Supportive, encouraging
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Create 3 alternative outreach messages.
+2. Compare tone, clarity, and motivation potential.
+3. Select the most effective message.
+Output: Multiple options + chosen message

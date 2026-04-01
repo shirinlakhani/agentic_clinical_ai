@@ -1,0 +1,12 @@
+Task: Double-read patient outreach
+Context: Complex care schedule
+Persona: Care Coordinator
+Format: Step-by-step message reasoning
+Tone: Supportive
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Read input twice to ensure no critical action is missed.
+- Generate a clear and empathetic patient message.
+Output: Verified patient message

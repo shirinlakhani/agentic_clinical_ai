@@ -1,0 +1,11 @@
+Task: Double-read messages for clarity
+Context: Patient-facing content
+Persona: Health Educator
+Format: Step-by-step
+Tone: Empathetic
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Review message twice for readability and correctness.
+- Output: Clear patient message

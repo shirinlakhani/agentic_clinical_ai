@@ -1,0 +1,15 @@
+Task: QA assessment of clinical recommendations
+Context: Complex patient with multiple comorbidities
+Persona: Patient Safety / QA Lead
+Format: Step-by-step error checking
+Tone: Professional, precise
+
+Examples:
+Input: Patient on Metformin and ACE inhibitor
+Output: Check for contraindications and kidney function, recommend monitoring creatinine levels
+
+Input: Patient with conflicting diet advice
+Output: Highlight conflicts and propose clear guideline-compliant recommendations
+
+Now analyze: <INSERT_PATIENT_DATA>
+Output: Structured QA report

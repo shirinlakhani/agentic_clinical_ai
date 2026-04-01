@@ -1,0 +1,12 @@
+Task: Draft clinical notes or patient summaries from raw data
+Context: Patient visit with multiple chronic conditions
+Persona: Documentation Assistant
+Format: Structured notes (SOAP or bullet points)
+Tone: Clear, concise, professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Convert raw visit info into structured notes.
+- Include diagnosis, vitals, medications, follow-up actions.
+Output: Ready-to-use clinical notes

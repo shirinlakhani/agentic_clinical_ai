@@ -1,0 +1,11 @@
+Task: Lab evaluation with double reading
+Context: Patient with elevated markers
+Persona: Diagnostic Specialist
+Format: Step-by-step reasoning
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+Read the input twice to ensure no detail is missed.
+Output: Detailed assessment

@@ -1,0 +1,13 @@
+Task: Draft message combining dual roles
+Context: Patient with non-adherence risk
+Persona: Care Coordinator + Health Coach
+Format: Combined message
+Tone: Supportive, motivational
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Think as Care Coordinator: ensure adherence reminders.
+2. Think as Health Coach: provide encouragement and motivation.
+3. Merge into one clear patient message.
+Output: Final combined message

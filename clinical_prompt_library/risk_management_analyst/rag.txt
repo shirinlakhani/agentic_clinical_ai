@@ -1,0 +1,12 @@
+Task: Risk assessment using external references
+Context: Population with chronic conditions
+Persona: Risk Management Analyst
+Format: Report + references
+Tone: Analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Retrieve relevant clinical guidelines.
+2. Compare with patient data.
+3. Output: Risk report with reference support

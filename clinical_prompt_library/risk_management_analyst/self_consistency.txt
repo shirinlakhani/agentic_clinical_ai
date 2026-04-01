@@ -1,0 +1,12 @@
+Task: Ensure consistency in risk scoring
+Context: Population dataset
+Persona: Risk Management Analyst
+Format: Multiple drafts → consensus
+Tone: Analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent risk assessments.
+2. Determine majority consensus.
+3. Output: Final risk report

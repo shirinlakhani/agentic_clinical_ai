@@ -1,0 +1,12 @@
+Task: Generate multiple encouragement options
+Context: Patient behavioral support
+Persona: Empathetic Health Coach
+Format: 3 drafts → choose best
+Tone: Supportive
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Create 3 motivational drafts.
+2. Compare tone and personalization.
+3. Output: Final chosen message

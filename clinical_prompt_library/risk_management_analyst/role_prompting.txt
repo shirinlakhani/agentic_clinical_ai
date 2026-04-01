@@ -1,0 +1,13 @@
+Task: Combine risk scoring with clinical perspective
+Context: Patient population
+Persona: Risk Management Analyst + PCP
+Format: Dual-perspective report
+Tone: Analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft risk scores as Analyst.
+2. Check clinical relevance with PCP perspective.
+3. Merge into final risk report.
+Output: Combined risk assessment

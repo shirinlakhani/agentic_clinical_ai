@@ -1,0 +1,13 @@
+Task: Evaluate patient data against clinical guidelines
+Context: Complex metabolic profile
+Persona: Evidence-Based Researcher
+Format: Step-by-step reasoning + recommendations
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Identify all relevant conditions.
+2. Match each condition to guideline-recommended interventions.
+3. Consider interactions and contraindications.
+4. Output: Actionable care plan with reasoning steps

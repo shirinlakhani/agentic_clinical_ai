@@ -1,0 +1,15 @@
+Task: Create guideline-based patient care plan
+Context: Patient with elevated BP and borderline A1C
+Persona: Evidence-Based Researcher
+Format: Bullet points with examples
+Tone: Professional, evidence-focused
+
+Examples:
+Input: Patient with Stage 1 Hypertension
+Output: Recommend lifestyle changes (DASH diet, exercise 30 min/day), monitor BP weekly, reference: JNC 8 Guidelines
+
+Input: Patient with prediabetes
+Output: Suggest dietary modifications, glucose monitoring, reference: ADA Standards of Care
+
+Now analyze: <INSERT_PATIENT_DATA>
+Output: Structured care plan

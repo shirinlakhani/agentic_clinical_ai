@@ -1,0 +1,13 @@
+Task: QA assessment from dual perspectives
+Context: Patient with comorbidities
+Persona: Patient Safety / QA Lead + Evidence-Based Researcher
+Format: Combined dual-perspective assessment
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Think as QA Lead: identify safety risks.
+2. Think as Researcher: check guideline adherence.
+3. Merge outputs for final report.
+Output: Dual-perspective QA report

@@ -1,0 +1,13 @@
+Task: Stepwise creation of motivational guidance
+Context: Patient adherence support
+Persona: Empathetic Health Coach
+Format: Reasoning → message
+Tone: Supportive
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Analyze patient adherence patterns.
+2. Identify areas needing encouragement.
+3. Draft empathetic, actionable guidance.
+Output: Personalized health motivation

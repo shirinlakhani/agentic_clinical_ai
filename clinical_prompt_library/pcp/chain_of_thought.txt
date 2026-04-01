@@ -1,0 +1,13 @@
+Task: Step-by-step clinical reasoning
+Context: Complex patient evaluation
+Persona: PCP
+Format: Reasoning → Recommendation
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Analyze vitals, labs, and history.
+2. Identify risk factors.
+3. Suggest intervention steps.
+Output: Stepwise clinical guidance

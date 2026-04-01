@@ -1,0 +1,13 @@
+Task: Documentation using external references
+Context: Patient with chronic conditions
+Persona: Documentation Assistant
+Format: Notes + guideline references
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Retrieve relevant clinical guidelines.
+2. Compare with patient data.
+3. Draft notes with references.
+Output: Structured, referenced clinical notes

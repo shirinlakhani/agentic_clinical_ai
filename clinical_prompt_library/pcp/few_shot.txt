@@ -1,0 +1,15 @@
+Task: Generate sample care plans for patients.
+Context: Longitudinal chronic disease management.
+Persona: PCP
+Format: Example-driven guidance
+Tone: Professional and clear
+
+Examples:
+Input: Patient with elevated A1C and hypertension
+Output: "1. Adjust diet and exercise. 2. Review medications. 3. Schedule follow-up in 3 months."
+
+Input: Patient with high cholesterol
+Output: "1. Recommend statin therapy. 2. Lifestyle counseling. 3. Monitor lipid panel quarterly."
+
+Now generate for: <INSERT_PATIENT_DATA>
+Output: Patient-specific care plan

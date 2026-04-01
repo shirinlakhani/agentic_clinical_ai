@@ -1,0 +1,13 @@
+Task: Design patient messages with reasoning
+Context: Patient at risk of non-adherence
+Persona: Care Coordinator
+Format: Step-by-step reasoning + message
+Tone: Supportive, encouraging
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Identify patient risk factors for non-adherence.
+2. Determine which care actions need emphasis.
+3. Draft a concise, empathetic message highlighting actions.
+Output: Message with reasoning

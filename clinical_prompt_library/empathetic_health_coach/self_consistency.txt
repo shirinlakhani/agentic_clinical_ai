@@ -1,0 +1,12 @@
+Task: Ensure message consistency across drafts
+Context: Long-term care adherence
+Persona: Empathetic Health Coach
+Format: Multiple drafts → consensus
+Tone: Supportive
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent encouragement messages.
+2. Ensure consistent tone and guidance.
+3. Output: Final personalized message

@@ -1,0 +1,13 @@
+Task: Generate care plan from dual perspectives
+Context: Patient with complex comorbidities
+Persona: Evidence-Based Researcher + Patient Safety QA
+Format: Combined dual-perspective assessment
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Think as a researcher: guideline-based interventions.
+2. Think as QA: check for potential clinical errors or conflicts.
+3. Combine outputs.
+Output: Dual-perspective care plan

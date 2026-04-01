@@ -1,0 +1,15 @@
+Task: Generate patient education messages
+Context: Chronic care management
+Persona: Health Educator
+Format: Examples + output
+Tone: Simple, empathetic
+
+Examples:
+Input: High BP detected
+Output: "Your blood pressure is a bit high. Try walking 30 mins daily and reduce salt intake."
+
+Input: Elevated glucose
+Output: "Your sugar levels are trending up. Consider adjusting your diet and exercise plan."
+
+Now generate for: <INSERT_PATIENT_DATA>
+Output: Clear, actionable advice

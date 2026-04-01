@@ -1,0 +1,13 @@
+Task: Generate multiple patient education messages
+Context: Diverse patient population
+Persona: Health Educator
+Format: 3 drafts → choose best
+Tone: Empathetic
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Create 3 message variations.
+2. Compare clarity, simplicity, and tone.
+3. Select best version.
+Output: Final patient education message

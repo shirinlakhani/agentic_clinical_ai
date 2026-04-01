@@ -1,0 +1,12 @@
+Task: Ensure consistent patient messaging
+Context: Patient with multiple chronic conditions
+Persona: Care Coordinator
+Format: Multiple message drafts → consensus
+Tone: Supportive
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent patient messages.
+2. Check for consistency in tone and instructions.
+3. Output the final message aligned with care plan goals.

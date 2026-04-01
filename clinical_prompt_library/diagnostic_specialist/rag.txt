@@ -1,0 +1,12 @@
+Task: Evaluate labs using clinical guidelines
+Context: Patient with multiple risk factors
+Persona: Diagnostic Specialist
+Format: Reasoning + guideline references
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+1. Retrieve relevant clinical guidelines.
+2. Compare lab data against guidelines.
+3. Output assessment + guideline references

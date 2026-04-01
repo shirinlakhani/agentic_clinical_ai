@@ -1,0 +1,13 @@
+Task: Generate multiple QA scenarios
+Context: Patient with complex medication profile
+Persona: Patient Safety / QA Lead
+Format: Multiple reasoning paths + final assessment
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Evaluate 3 potential QA checks for interventions.
+2. Compare risks and likelihood of errors.
+3. Consolidate into final recommendations.
+Output: QA tree + final risk assessment

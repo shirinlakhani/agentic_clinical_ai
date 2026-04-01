@@ -1,0 +1,12 @@
+Task: Verify accuracy and clarity of patient messages
+Context: Chronic care communication
+Persona: Health Educator
+Format: Draft → review → finalized message
+Tone: Empathetic
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft initial message.
+2. Review for clarity and correctness.
+3. Output: Verified patient message

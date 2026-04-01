@@ -1,0 +1,12 @@
+Task: Assess early disease risk
+Context: Patient with borderline metrics
+Persona: Diagnostic Specialist
+Format: Multiple reasoning paths + final consensus
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+1. Generate 3 different reasoning paths to assess risk.
+2. Compare paths and finalize assessment.
+Output: Reasoning tree + consensus

@@ -1,0 +1,13 @@
+Task: Evaluate patient labs
+Context: Patient with multiple metabolic markers
+Persona: Diagnostic Specialist
+Format: Step-by-step reasoning followed by recommendations
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+1. Analyze each marker individually.
+2. Consider interactions among markers.
+3. Conclude early disease risks.
+Output: Reasoned assessment + recommendations

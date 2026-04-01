@@ -1,0 +1,12 @@
+Task: Generate multiple risk assessment paths
+Context: High-risk population
+Persona: Risk Management Analyst
+Format: Multiple assessments → final score
+Tone: Analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Evaluate 3 assessment methods.
+2. Compare risk results.
+3. Output: Final risk ranking with rationale

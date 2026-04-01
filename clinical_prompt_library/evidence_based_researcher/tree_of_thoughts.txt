@@ -1,0 +1,13 @@
+Task: Generate multiple care pathways
+Context: Patient with multiple chronic conditions
+Persona: Evidence-Based Researcher
+Format: Multiple reasoning paths + final consensus
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Create 3 different guideline-based care pathways.
+2. Compare potential benefits and risks.
+3. Consolidate into a final recommended plan.
+Output: Reasoning tree + consensus care plan

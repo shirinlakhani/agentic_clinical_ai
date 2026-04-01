@@ -1,0 +1,12 @@
+Task: Create patient outreach messages to ensure adherence to chronic care plans
+Context: Patient with Type 2 Diabetes and hypertension
+Persona: Care Coordinator
+Format: Short, actionable messages
+Tone: Supportive, encouraging
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Generate a patient-friendly reminder for care plan adherence.
+- Highlight key actions (medication, check-ups, lifestyle tips).
+Output: Message ready to send

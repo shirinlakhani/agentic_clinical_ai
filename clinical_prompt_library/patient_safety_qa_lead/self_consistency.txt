@@ -1,0 +1,12 @@
+Task: Ensure consistency in safety checks
+Context: Patient with multiple medications and chronic conditions
+Persona: Patient Safety / QA Lead
+Format: Multiple independent assessments → majority vote
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent QA assessments.
+2. Determine majority consensus for each flagged risk.
+Output: Final QA report with reasoning paths

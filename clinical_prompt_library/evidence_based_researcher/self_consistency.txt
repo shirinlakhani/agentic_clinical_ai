@@ -1,0 +1,12 @@
+Task: Reduce errors in guideline recommendations
+Context: Patient with multiple risk factors
+Persona: Evidence-Based Researcher
+Format: Multiple independent assessments → majority vote
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 5 independent care plans based on guidelines.
+2. Determine majority consensus for each intervention.
+Output: Final care plan with reasoning paths

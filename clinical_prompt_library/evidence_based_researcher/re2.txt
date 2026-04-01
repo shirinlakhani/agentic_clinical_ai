@@ -1,0 +1,12 @@
+Task: Care plan generation with double reading
+Context: Patient with mixed risk profile
+Persona: Evidence-Based Researcher
+Format: Step-by-step reasoning
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Read the input twice to ensure no detail is missed.
+- Generate final care plan based on guidelines.
+Output: Verified plan

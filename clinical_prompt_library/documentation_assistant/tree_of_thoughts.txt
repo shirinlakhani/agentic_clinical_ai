@@ -1,0 +1,13 @@
+Task: Generate multiple note options
+Context: Patient with complex care
+Persona: Documentation Assistant
+Format: Multiple note drafts + final selection
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft 3 note versions.
+2. Compare clarity, completeness, and adherence.
+3. Select final note.
+Output: Notes + chosen draft

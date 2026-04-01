@@ -1,0 +1,12 @@
+Task: Create patient message using external references
+Context: Patient with chronic care plan
+Persona: Care Coordinator
+Format: Message + guideline references
+Tone: Supportive, encouraging
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Retrieve relevant care instructions from clinical guidelines.
+2. Compare with patient plan.
+3. Output message with references where needed.

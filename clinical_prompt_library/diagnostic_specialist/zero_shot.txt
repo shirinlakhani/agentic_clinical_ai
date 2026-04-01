@@ -1,0 +1,12 @@
+Task: Analyze complex lab results for early chronic disease indicators
+Context: 55-year-old patient with borderline A1C and rising cholesterol
+Persona: Diagnostic Specialist (e.g., endocrinologist)
+Format: Bullet points with reasoning steps
+Tone: Professional
+
+Input Data: <INSERT_LAB_RESULTS>
+
+Instructions:
+- Evaluate the lab data and flag any early signs of chronic disease.
+- Provide rationale for each flag.
+Output: Structured assessment in bullet points

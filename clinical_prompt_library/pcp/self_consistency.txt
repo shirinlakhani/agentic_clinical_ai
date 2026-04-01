@@ -1,0 +1,12 @@
+Task: Ensure consistency of clinical recommendations
+Context: Multi-draft evaluation
+Persona: PCP
+Format: Multiple drafts → Consensus
+Tone: Professional and precise
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Generate 3–5 independent drafts.
+2. Ensure recommendations align across drafts.
+3. Output: Consistent patient care guidance

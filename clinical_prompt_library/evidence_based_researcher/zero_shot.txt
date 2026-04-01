@@ -1,0 +1,13 @@
+Task: Synthesize evidence-based guidelines into actionable care protocols
+Context: 60-year-old patient with newly diagnosed hypertension and prediabetes
+Persona: Evidence-Based Researcher
+Format: Bullet points with guideline references
+Tone: Professional, evidence-focused
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Identify key clinical guidelines relevant to the patient’s conditions.
+- Summarize actionable interventions based on latest peer-reviewed research.
+- Output should include references or citations.
+Output: Structured care protocol

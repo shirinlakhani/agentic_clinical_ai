@@ -1,0 +1,13 @@
+Task: Combine educator + clinician perspective
+Context: Patient portal message
+Persona: Health Educator + PCP
+Format: Dual perspective message
+Tone: Empathetic and professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft message as Health Educator.
+2. Validate accuracy with clinician perspective.
+3. Merge into final message.
+Output: Patient-facing educational content

@@ -1,0 +1,13 @@
+Task: Validate safety of clinical recommendations
+Context: High-risk patient with chronic conditions
+Persona: Patient Safety / QA Lead
+Format: Initial QA → Verification → Final Assessment
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft initial safety checks.
+2. Reassess using secondary sources or guidelines.
+3. Compare and finalize output.
+Output: Verified QA report

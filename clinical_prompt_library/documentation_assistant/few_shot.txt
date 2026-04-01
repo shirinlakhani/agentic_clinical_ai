@@ -1,0 +1,12 @@
+Task: Generate structured clinical documentation
+Context: Complex patient case
+Persona: Documentation Assistant
+Format: Step-by-step examples
+Tone: Clear, professional
+
+Examples:
+Input: Blood pressure 150/90, elevated glucose
+Output: SOAP note with vitals, observations, plan
+
+Now generate for: <INSERT_PATIENT_DATA>
+Output: Clinical notes

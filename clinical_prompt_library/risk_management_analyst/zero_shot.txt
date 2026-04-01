@@ -1,0 +1,12 @@
+Task: Identify high-risk patients and potential care gaps
+Context: Population health data
+Persona: Risk Management Analyst
+Format: Risk scoring, flagged patients
+Tone: Analytical, precise
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Analyze patient data for risk factors.
+- Prioritize patients needing early intervention.
+Output: Risk report with scoring

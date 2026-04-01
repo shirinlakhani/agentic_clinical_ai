@@ -1,0 +1,12 @@
+Task: Double-read risk assessment
+Context: Complex patient dataset
+Persona: Risk Management Analyst
+Format: Step-by-step
+Tone: Analytical
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+- Review dataset twice for accuracy.
+- Generate final risk report with checks.
+Output: Verified risk assessment

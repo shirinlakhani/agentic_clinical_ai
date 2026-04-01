@@ -1,0 +1,13 @@
+Task: Evaluate patient recommendations for safety
+Context: High-risk patient
+Persona: Patient Safety / QA Lead
+Format: Step-by-step reasoning
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Review each recommended intervention.
+2. Check for medical logic errors or conflicts.
+3. Identify any safety concerns or guideline deviations.
+4. Output: Stepwise QA report with risk flags

@@ -1,0 +1,12 @@
+Task: Generate multiple treatment or care plan options
+Context: Complex patient scenario
+Persona: PCP
+Format: 3–5 plan variations → choose best
+Tone: Evidence-based
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft multiple care strategies.
+2. Compare safety, effectiveness, and patient suitability.
+3. Output: Recommended plan

@@ -1,0 +1,13 @@
+Task: Validate guideline-based interventions
+Context: Patient with hypertension and early diabetes
+Persona: Evidence-Based Researcher
+Format: Initial plan, verification plan, final recommendations
+Tone: Professional
+
+Input Data: <INSERT_PATIENT_DATA>
+
+Instructions:
+1. Draft initial interventions.
+2. Reassess using a secondary guideline source.
+3. Compare and finalize output.
+Output: Step-by-step verified care plan

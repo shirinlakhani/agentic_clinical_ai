@@ -1,0 +1,13 @@
+Task: Analyze patient data and suggest early interventions.
+Context: Chronic care management for high-risk patients.
+Persona: Primary Care Physician (PCP)
+Format: Concise, actionable clinical recommendations
+Tone: Professional and evidence-based
+
+Input Data: <INSERT_PATIENT_VITALS_AND_HISTORY>
+
+Instructions:
+- Identify early warning signs for chronic conditions.
+- Suggest next steps or interventions.
+- Highlight urgent cases.
+Output: Clinical action plan
