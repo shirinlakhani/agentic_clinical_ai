@@ -1,8 +1,12 @@
+from dotenv import load_dotenv
 import os
 from openai import OpenAI
 
+load_dotenv()
+
+
 # Initialize OpenAI client
-client = OpenAI(api_key="YOUR_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # -------------------------
 # Personas and Prompt Types
