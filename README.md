@@ -1,7 +1,7 @@
 # Agentic Clinical AI
 
 ## Overview
-**Agentic Clinical AI** is a Python-based framework for building multi-persona, reusable prompt libraries to guide AI in clinical workflows. It supports high-stakes medical decision-making, patient engagement, and administrative efficiency by leveraging structured prompt templates and agentic workflows.
+**Agentic Clinical AI** is a Python-based framework for building multi-persona, reusable prompt libraries to guide AI in clinical workflows. It supports high-stakes medical decision-making, patient engagement, and administrative efficiency by leveraging structured prompt templates and agentic workflows.git add .
 
 This project demonstrates:
 
@@ -13,7 +13,7 @@ This project demonstrates:
 
 ## Folder Structure
 
-\`\`\`text
+```text
 agentic_clinical_ai/
 │
 ├─ clinical_prompt_library/           # Contains all persona-specific prompts
@@ -31,7 +31,7 @@ agentic_clinical_ai/
 │   └─ empathetic_health_coach/
 │
 └─ agentic_clinical_workflow.py      # Python script to run agentic workflows
-\`\`\`
+```
 
 ---
 
@@ -47,20 +47,20 @@ agentic_clinical_ai/
 ## Getting Started
 
 1. **Clone the repository**
-\`\`\`bash
-git clone https://github.com/YOUR_USERNAME/agentic_clinical_ai.git
+```bash
+git clone https://github.com/shirinlakhani/agentic_clinical_ai.git
 cd agentic_clinical_ai
-\`\`\`
+```
 
 2. **Install Python dependencies** (if any)
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 3. **Run the agentic workflow**
-\`\`\`bash
+```bash
 python agentic_clinical_workflow.py
-\`\`\`
+```
 
 4. **Add or update prompts**
 - Add new personas or prompt types under \`clinical_prompt_library/\`.
@@ -84,3 +84,4 @@ MIT License
 ## Author
 Shirin Lakhani  
 [LinkedIn](https://www.linkedin.com/in/shirin-lakhani786) | [GitHub](https://github.com/shirinlakhani)
+
