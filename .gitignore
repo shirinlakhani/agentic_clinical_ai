@@ -28,4 +28,4 @@ dist/
 .ipynb_checkpoints/
 
 # Optional: OS-specific
-Thumbs.db
+Thumbs.db.env
