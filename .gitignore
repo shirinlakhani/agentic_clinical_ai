@@ -1,1 +1,31 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.*        # any additional env files
+
+# Mac system files
 .DS_Store
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Build/dist folders
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Optional: OS-specific
+Thumbs.db
